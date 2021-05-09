@@ -1,0 +1,28 @@
+{
+  "name": "goodnotariesnetwork",
+  "version": "1.0.0",
+  "description": "Everyone deserves a Good Notary, here we are.",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alertNiKole/Good-Notaries.git"
+  },
+  "keywords": [
+    "notary",
+    "landing",
+    "temporary",
+    "agoodnotary"
+  ],
+  "author": "NiKole Maxwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alertNiKole/Good-Notaries/issues"
+  },
+  "homepage": "https://github.com/alertNiKole/Good-Notaries#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3"
+  }
+}
